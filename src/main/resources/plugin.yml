@@ -1,0 +1,4 @@
+name: MoreSlotsOnNitrado
+version: '${project.version}'
+main: org.pipeman.more_slots_on_nitrado.Main
+api-version: 1.18
